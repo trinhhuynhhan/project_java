@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/QuanLyDienThoai/src/Data/Database.java</file>
+            <file>file:/D:/QuanLyDienThoai/src/Model/QuanLySanPhamModel.java</file>
+            <file>file:/D:/QuanLyDienThoai/src/contronter/QuanLyLoaiContronter.java</file>
+            <file>file:/D:/QuanLyDienThoai/src/Model/QuanLyLoaiModel.java</file>
+            <file>file:/D:/QuanLyDienThoai/src/view/QuanLyLoaiView.java</file>
+            <file>file:/D:/QuanLyDienThoai/src/DAO/LoaiDAO.java</file>
+            <file>file:/D:/QuanLyDienThoai/src/contronter/QuanLyDienThoaiContronter.java</file>
+            <file>file:/D:/QuanLyDienThoai/src/Class/Loai.java</file>
+            <file>file:/D:/QuanLyDienThoai/src/view/QuanLySanPhamView.java</file>
+            <file>file:/D:/QuanLyDienThoai/src/view/QuanLyDienThoaiView.java</file>
+            <file>file:/D:/QuanLyDienThoai/src/Class/SanPham.java</file>
+            <file>file:/D:/QuanLyDienThoai/src/DAO/SanPhamDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
